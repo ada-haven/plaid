@@ -1,8 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://tinyurl.com/mr457rcm",
-        "url_png_logo": "https://tinyurl.com/mr457rcm",
+        "url_png_icon_64x64": "https://tinyurl.com/3cv6jmjm",
+        "url_png_logo": "https://tinyurl.com/3cv6jmjm",
         "location": "Haven",
         "social": {
             "twitter_handle": "",
@@ -14,13 +14,13 @@
             "github_handle": ""
         },
         "company": {
-            "name": "ADA Haven ",
+            "name": "PLAID Pool",
             "website": "https://cardano.org"
         },
         "about": {
-            "me": "ADA Haven",
-            "server":"ADA Haven",
-            "company": "ADA Haven"
+            "me": "PLAID Pool",
+            "server":"PLAID Pool",
+            "company": "PLAID Pool"
         }
     },
     "my-pool-ids": {
