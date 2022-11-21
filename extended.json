@@ -1,9 +1,9 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://tinyurl.com/3cv6jmjm",
-        "url_png_logo": "https://tinyurl.com/3cv6jmjm",
-        "location": "Haven",
+        "url_png_icon_64x64": "https://tinyurl.com/mr8th9ts",
+        "url_png_logo": "https://tinyurl.com/mr8th9ts",
+        "location": "Blockchain",
         "social": {
             "twitter_handle": "",
             "telegram_handle": "",
